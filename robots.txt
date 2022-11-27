@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://sjnb.877771.xyz/sitemap.xml
